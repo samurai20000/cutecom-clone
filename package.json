@@ -1,12 +1,8 @@
 {
   "name": "conemu-clone",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "version": "0.0.1",
+  "description": "conemu clone",
+  "main": "main.js",
+  "author": "samurai20000 <samurai20000@gmail.com>(https://github.com/samurai20000)",
+  "license": "MIT"
 }

@@ -1,1 +1,6 @@
-conemu-clone
+# conemu-clone
+
+## development
+```
+$ electron .
+```
