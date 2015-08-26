@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "conemu clone",
   "main": "main.js",
+  "scripts": {
+      "start": "electron ."
+  },
   "author": "samurai20000 <samurai20000@gmail.com>(https://github.com/samurai20000)",
   "license": "MIT"
 }

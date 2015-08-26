@@ -1,6 +1,7 @@
 # conemu-clone
 
-## development
+## Development
+Run the application.
 ```
-$ electron .
+$ npm run start
 ```
