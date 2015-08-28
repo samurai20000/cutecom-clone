@@ -5,7 +5,8 @@
   "main": "main.js",
   "private": true,
   "scripts": {
-      "start": "electron ."
+      "start": "electron .",
+      "setup": "npm install"
   },
   "author": "samurai20000 <samurai20000@gmail.com>(https://github.com/samurai20000)",
   "license": "MIT",

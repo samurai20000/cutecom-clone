@@ -1,7 +1,15 @@
 # conemu-clone
 
 ## Development
-Run the application.
+
+### Setup
+
+```
+$ npm run setup
+```
+
+### Application Run
+
 ```
 $ npm run start
 ```
