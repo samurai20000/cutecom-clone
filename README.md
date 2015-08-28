@@ -1,4 +1,4 @@
-# conemu-clone
+# cutecom-clone
 
 ## Development
 ### Setup
