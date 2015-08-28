@@ -6,8 +6,9 @@
   "private": true,
   "scripts": {
     "package": "electron-packager . cutecom-clone --platform=darwin,win32 --arch=ia32,x64 --out=packages/v0.0.1 --version=0.31.0",
+    "release": "ghr v0.0.1 packages/",
     "start": "electron .",
-    "setup": "npm install"
+    "setup": "npm install && brew tap tcnksm/ghr && brew install ghr"
   },
   "author": "samurai20000 <samurai20000@gmail.com>(https://github.com/samurai20000)",
   "license": "MIT",

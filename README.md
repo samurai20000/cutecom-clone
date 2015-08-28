@@ -17,3 +17,10 @@ Package the application for Mac and Win
 ```
 $ npm run package
 ```
+
+### Release
+Release the new version
+```
+$ npm run release
+```
+
