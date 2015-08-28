@@ -5,12 +5,14 @@
   "main": "main.js",
   "private": true,
   "scripts": {
-      "start": "electron .",
-      "setup": "npm install"
+    "package": "electron-packager . cutecom-clone --platform=darwin,win32 --arch=ia32,x64 --version=0.31.0",
+    "start": "electron .",
+    "setup": "npm install"
   },
   "author": "samurai20000 <samurai20000@gmail.com>(https://github.com/samurai20000)",
   "license": "MIT",
   "devDependencies": {
-      "electron-prebuilt": "^0.30.6"
+    "electron-packager": "^5.0.2",
+    "electron-prebuilt": "^0.30.6"
   }
 }
