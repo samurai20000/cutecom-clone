@@ -5,7 +5,7 @@
   "main": "main.js",
   "private": true,
   "scripts": {
-    "package": "electron-packager . cutecom-clone --platform=darwin,win32 --arch=ia32,x64 --version=0.31.0",
+    "package": "electron-packager . cutecom-clone --platform=darwin,win32 --arch=ia32,x64 --out=packages/v0.0.1 --version=0.31.0",
     "start": "electron .",
     "setup": "npm install"
   },
