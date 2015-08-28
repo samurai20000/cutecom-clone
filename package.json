@@ -1,7 +1,7 @@
 {
-  "name": "conemu-clone",
+  "name": "cutecom-clone",
   "version": "0.0.1",
-  "description": "conemu clone",
+  "description": "cutecom clone",
   "main": "main.js",
   "private": true,
   "scripts": {
